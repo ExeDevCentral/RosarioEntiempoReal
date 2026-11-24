@@ -1,7 +1,7 @@
 {
   "name": "landing-page-chatbot",
   "version": "1.0.0",
-  "description": "Landing page moderna con chatbot OpenAI y estructura preparada para n8n",
+  "description": "Panel urbano en tiempo real de Rosario: transporte, clima y servicios.",
   "main": "server/index.js",
   "scripts": {
     "start": "node server/index.js",
@@ -109,5 +109,10 @@
   "engines": {
     "node": ">=16.0.0",
     "npm": ">=8.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExeDevCentral/RosarioEntiempoReal.git"
+  },
+  "homepage": "https://github.com/ExeDevCentral/RosarioEntiempoReal"
 }
